@@ -103,7 +103,7 @@ func DefaultConfig() *Config {
 			Host:         "127.0.0.1",
 			Port:         "3306",
 			User:         "root",
-			Pwd:          "111111",
+			Pwd:          "123456",
 			Name:         "fate",
 			MaxIdleCon:   0,
 			MaxOpenCon:   0,

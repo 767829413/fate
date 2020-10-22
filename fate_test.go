@@ -32,7 +32,7 @@ func TestFate_RunMakeName(t *testing.T) {
 		Host:         "localhost",
 		Port:         "3306",
 		User:         "root",
-		Pwd:          "111111",
+		Pwd:          "123456",
 		Name:         "fate",
 		MaxIdleCon:   0,
 		MaxOpenCon:   0,
